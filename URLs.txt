@@ -1,0 +1,14 @@
+1. GitHub repository
+	https://github.com/h3itham/Udapeople-CICD
+
+2. Public URL for s3 bucket
+	http://udapeople-9cba15f.s3-website-us-east-1.amazonaws.com	
+
+3. Distribution domain name | cloud front 
+	http://d117dkfnl5cgyn.cloudfront.net
+
+4. Backend instance URL
+	ec2-35-174-15-165.compute-1.amazonaws.com
+
+5. Prometheus server URL
+	ec2-18-204-216-229.compute-1.amazonaws.com	
