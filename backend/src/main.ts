@@ -9,7 +9,6 @@ import * as cors from 'cors';
 import { TransformInterceptor } from './modules/common/interceptors/TransformInterceptor';
 import * as express from 'express';
 import { ErrorFilter } from './modules/errors/error.filter';
-## haitham
 
 async function bootstrap() {
   const logger = new AppLogger();
